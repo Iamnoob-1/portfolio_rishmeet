@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: "+91 8800595805",
   github: "https://github.com/rishmeetsingh2005", 
   linkedin: "https://linkedin.com/in/rishmeet-singh",
-  leetcode: "https://leetcode.com/u/rishmeetsingh/",
+  leetcode: "https://leetcode.com/u/Iamnoob/",
   degree: "B.Tech in Computer Science & Engineering",
   institution: "Vellore Institute of Technology (VIT), Chennai",
   cgpa: "8.65 / 10.0",
